@@ -1,0 +1,11 @@
+h1{text-align:center;font-size:100px}
+
+h2{text-align: center;font-size:50px;}
+
+p{font-size: 50px; font-weight: bold}
+
+a{font-size:40px;color:white}
+
+.container{display: flex;align-items: center;justify-content: space-between;width: 100%;}
+
+body{background-image:url(Fondo.presentación.gif);color:#d8dde2}
